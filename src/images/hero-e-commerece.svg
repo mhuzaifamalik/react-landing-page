@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="324px" height="324px" viewBox="0 0 324 324" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hero-e-commerece</title>
+    <defs>
+        <linearGradient x1="-44.9193188%" y1="108.961812%" x2="99.1181456%" y2="19.4896757%" id="linearGradient-1">
+            <stop stop-color="#CA36FF" offset="0%"></stop>
+            <stop stop-color="#08B8F6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Service---e-commerce" transform="translate(-978.000000, -221.000000)">
+            <g id="hero-e-commerece" transform="translate(978.000000, 221.000000)">
+                <polygon id="Path" points="0 0 324 0 324 324 0 324"></polygon>
+                <path d="M209.925,175.5 C220.05,175.5 228.96,169.965 233.55,161.595 L281.88,73.98 C286.875,65.07 280.395,54 270.135,54 L70.335,54 L57.645,27 L13.5,27 L13.5,54 L40.5,54 L89.1,156.465 L70.875,189.405 C61.02,207.495 73.98,229.5 94.5,229.5 L256.5,229.5 L256.5,202.5 L94.5,202.5 L109.35,175.5 L209.925,175.5 Z M83.16,81 L247.185,81 L209.925,148.5 L115.155,148.5 L83.16,81 Z M94.5,243 C79.65,243 67.635,255.15 67.635,270 C67.635,284.85 79.65,297 94.5,297 C109.35,297 121.5,284.85 121.5,270 C121.5,255.15 109.35,243 94.5,243 Z M229.5,243 C214.65,243 202.635,255.15 202.635,270 C202.635,284.85 214.65,297 229.5,297 C244.35,297 256.5,284.85 256.5,270 C256.5,255.15 244.35,243 229.5,243 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
